@@ -1,13 +1,13 @@
 # methodman
 
 [![Build Status](https://travis-ci.org/httgo/methodman.svg?branch=master)](https://travis-ci.org/httgo/methodman)
-[![GoDoc](https://godoc.org/gopkg.in/httgo/methodman.v0?status.svg)](http://godoc.org/gopkg.in/httgo/methodman.v0)
+[![GoDoc](https://godoc.org/gopkg.in/httgo/methodman.v1?status.svg)](http://godoc.org/gopkg.in/httgo/methodman.v1)
 
 Method override handler
 
 ## Install
 
-    go get gopkg.in/httgo/methodman.v0
+    go get gopkg.in/httgo/methodman.v1
 
 ## Example
 
