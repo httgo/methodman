@@ -1,4 +1,4 @@
-package methodman
+package methodman // gopkg.in/httgo/methodman.v1
 
 import (
 	"net/http"
